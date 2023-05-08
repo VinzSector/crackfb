@@ -25,7 +25,7 @@ sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan peri
 
 - Notice me: ```Anda bisa memberikan rezeki kepada owner SC``` <a href="https://wa.me/+6285220470366">Klik disini</a>
 
-- Notice me: ```Gunakan Lah Dengan Bijak Ingat Ini Metode Api Khusus Untuk Cari Game Saja!!!```
+- Notice me: ```Gunakan Lah Dengan Bijak Agar Method Tidak Gampang Mokad!!!```
 
 <h5 align="left">LOGIN COOKIE:</h5>
 
