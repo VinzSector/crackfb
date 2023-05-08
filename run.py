@@ -1,2 +1,2 @@
-import MBF2_enc
-MBF2_enc.login()
+import mbf_enc
+mbf_enc.login()
