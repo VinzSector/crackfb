@@ -18,7 +18,7 @@
 sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini
 
 
-    $ cd $HOME/Freya
+    $ cd $HOME/crackfb
     $ git pull
     $ python run.py
 
