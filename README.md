@@ -23,7 +23,7 @@ sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan peri
     $ python run.py
 
 
-- Notice me: ```Anda bisa memberikan rezeki kepada owner SC``` <a href="https://wa.me/+6281221523195">Klik disini</a>
+- Notice me: ```Anda bisa memberikan rezeki kepada owner SC``` <a href="https://wa.me/+6285220470366">Klik disini</a>
 
 - Notice me: ```Gunakan Lah Dengan Bijak Ingat Ini Metode Api Khusus Untuk Cari Game Saja!!!```
 
