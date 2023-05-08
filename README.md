@@ -5,10 +5,10 @@
 
     $ pkg update && pkg upgrade
     $ pkg install python git
-    $ pkg install play-audio
-    $ rm -rf MBF-FREE
-    $ git clone https://github.com/XyraaCode/Freya
-    $ cd Freya
+    $ git clone https://github.com/VinzSector/crackfb
+    $ cd crackfb
+    $ mkdir OK
+    $ mkdir CP
     $ python run.py
 
 - Oke sekarang script sudah berhasil di ```install```
